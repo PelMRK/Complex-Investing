@@ -6,3 +6,6 @@ Here are parser programs, user action imitators and trial genetic algorithms
 I use data from three different sites: investing.com, gurufocus.com, tinkoff.ru
 
 As a result, I get a lot of ratios and target prices for companies (these data are then used by me in another document for calculations)
+
+"tickers.py" checks if new tickers have appeared on the exchange \n
+"main.py" parses information, "bots"
