@@ -1,0 +1,47 @@
+Financial Strength
+Profitability Rank
+Valuation Rank
+Cash-To-Debt
+Equity-to-Asset
+Debt-to-Equity
+Debt-to-EBITDA
+Interest Coverage
+Piotroski F-Score
+Altman Z-Score
+Beneish M-Score
+Operating Margin %
+Net Margin %
+ROE %
+ROA %
+3-Year Revenue Growth Rate
+3-Year EBITDA Growth Rate
+3-Year EPS without NRI Growth Rate
+PE Ratio
+Forward PE Ratio
+PE Ratio without NRI
+Price-to-Owner-Earnings
+PB Ratio
+PS Ratio
+Price-to-Free-Cash-Flow
+Price-to-Operating-Cash-Flow
+EV-to-EBIT
+EV-to-EBITDA
+EV-to-Revenue
+PEG Ratio
+Shiller PE Ratio
+Current Ratio
+Quick Ratio
+Days Inventory
+Days Sales Outstanding
+Days Payable
+Dividend Yield %
+Dividend Payout Ratio
+3-Year Dividend Growth Rate
+Forward Dividend Yield %
+5-Year Yield-on-Cost %
+3-Year Average Share Buyback Ratio
+Price-to-Tangible-Book
+Price-to-Intrinsic-Value-Projected-FCF
+Price-to-Median-PS-Value
+Price-to-Peter-Lynch-Fair-Value
+Price-to-Graham-Number

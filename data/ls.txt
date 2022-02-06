@@ -1,0 +1,150 @@
+Ticker
+Buffet Stars
+Volume:
+Avg Vol (1m):
+Market Cap $:
+Enterprise Value $:
+Financial Strength
+Cash-To-Debt
+Cash-To-Debt_ind
+Cash-To-Debt_his
+Equity-to-Asset
+Equity-to-Asset_ind
+Equity-to-Asset_his
+Debt-to-Equity
+Debt-to-Equity_ind
+Debt-to-Equity_his
+Debt-to-EBITDA
+Debt-to-EBITDA_ind
+Debt-to-EBITDA_his
+Interest Coverage
+Interest Coverage_ind
+Interest Coverage_his
+Piotroski F-Score
+Altman Z-Score
+Beneish M-Score
+ROIC
+WACC
+roic - wacc
+Profitability Rank
+Operating Margin %
+Operating Margin %_ind
+Operating Margin %_his
+Net Margin %
+Net Margin %_ind
+Net Margin %_his
+ROE %
+ROE %_ind
+ROE %_his
+ROA %
+ROA %_ind
+ROA %_his
+ROC (Joel Greenblatt) %
+ROC (Joel Greenblatt) %_ind
+ROC (Joel Greenblatt) %_his
+3-Year Revenue Growth Rate
+3-Year Revenue Growth Rate_ind
+3-Year Revenue Growth Rate_his
+3-Year EBITDA Growth Rate
+3-Year EBITDA Growth Rate_ind
+3-Year EBITDA Growth Rate_his
+3-Year EPS without NRI Growth Rate
+3-Year EPS without NRI Growth Rate_ind
+3-Year EPS without NRI Growth Rate_his
+Valuation Rank
+PE Ratio
+PE Ratio_ind
+PE Ratio_his
+Forward PE Ratio
+Forward PE Ratio_ind
+Forward PE Ratio_his
+PE Ratio without NRI
+PE Ratio without NRI_ind
+PE Ratio without NRI_his
+Price-to-Owner-Earnings
+Price-to-Owner-Earnings_ind
+Price-to-Owner-Earnings_his
+PB Ratio
+PB Ratio_ind
+PB Ratio_his
+PS Ratio
+PS Ratio_ind
+PS Ratio_his
+Price-to-Free-Cash-Flow
+Price-to-Free-Cash-Flow_ind
+Price-to-Free-Cash-Flow_his
+Price-to-Operating-Cash-Flow
+Price-to-Operating-Cash-Flow_ind
+Price-to-Operating-Cash-Flow_his
+EV-to-EBIT
+EV-to-EBIT_ind
+EV-to-EBIT_his
+EV-to-EBITDA
+EV-to-EBITDA_ind
+EV-to-EBITDA_his
+EV-to-Revenue
+EV-to-Revenue_ind
+EV-to-Revenue_his
+PEG Ratio
+PEG Ratio_ind
+PEG Ratio_his
+Shiller PE Ratio
+Shiller PE Ratio_ind
+Shiller PE Ratio_his
+Current Ratio
+Current Ratio_ind
+Current Ratio_his
+Quick Ratio
+Quick Ratio_ind
+Quick Ratio_his
+Days Inventory
+Days Inventory_ind
+Days Inventory_his
+Days Sales Outstanding
+Days Sales Outstanding_ind
+Days Sales Outstanding_his
+Days Payable
+Days Payable_ind
+Days Payable_his
+Dividend Yield %
+Dividend Yield %_ind
+Dividend Yield %_his
+Dividend Payout Ratio
+Dividend Payout Ratio_ind
+Dividend Payout Ratio_his
+3-Year Dividend Growth Rate
+3-Year Dividend Growth Rate_ind
+3-Year Dividend Growth Rate_his
+Forward Dividend Yield %
+Forward Dividend Yield %_ind
+Forward Dividend Yield %_his
+5-Year Yield-on-Cost %
+5-Year Yield-on-Cost %_ind
+5-Year Yield-on-Cost %_his
+3-Year Average Share Buyback Ratio
+3-Year Average Share Buyback Ratio_ind
+3-Year Average Share Buyback Ratio_his
+Price-to-Tangible-Book
+Price-to-Tangible-Book_ind
+Price-to-Tangible-Book_his
+Price-to-Intrinsic-Value-Projected-FCF
+Price-to-Intrinsic-Value-Projected-FCF_ind
+Price-to-Intrinsic-Value-Projected-FCF_his
+Price-to-Intrinsic-Value-DCF (Earnings Based)
+Price-to-Intrinsic-Value-DCF (Earnings Based)_ind
+Price-to-Intrinsic-Value-DCF (Earnings Based)_his
+Price-to-Median-PS-Value
+Price-to-Median-PS-Value_ind
+Price-to-Median-PS-Value_his
+Price-to-Peter-Lynch-Fair-Value
+Price-to-Peter-Lynch-Fair-Value_ind
+Price-to-Peter-Lynch-Fair-Value_his
+Price-to-Graham-Number
+Price-to-Graham-Number_ind
+Price-to-Graham-Number_his
+Earnings Yield (Greenblatt) %
+Earnings Yield (Greenblatt) %_ind
+Earnings Yield (Greenblatt) %_his
+Forward Rate of Return (Yacktman) %
+Forward Rate of Return (Yacktman) %_ind
+Forward Rate of Return (Yacktman) %_his
